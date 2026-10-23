@@ -1,0 +1,23 @@
+{
+  "name": "sistema-reservas-api-dao-repository",
+  "version": "1.0.0",
+  "description": "API REST de servicios y reservas con arquitectura en capas, DAO y Repository",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "dao",
+    "repository",
+    "api",
+    "reservas"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}

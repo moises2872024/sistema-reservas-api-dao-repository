@@ -1,0 +1,11 @@
+[
+  {
+    "id": "c0c259fe-86eb-4761-8de6-5aad83a73d05",
+    "name": "Masaje relajante",
+    "description": "Masaje corporal de 30 minutos",
+    "duration": 30,
+    "price": 15000,
+    "category": "Masajes",
+    "available": false
+  }
+]
